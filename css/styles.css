@@ -156,7 +156,7 @@ form .fa-magnifying-glass {
 .filters_list {
 	display: flex;
 	flex-wrap: wrap;
-	gap: 28px;
+	gap: 15px;
 }
 
 .filters_list_element {
@@ -506,10 +506,6 @@ footer {
 	}
 
 	/********************************** FILTERS **********************************/
-
-	.filters_list {
-		gap: 20px;
-	}
 
 	.filters_list_element {
 		font-size: 16px;
