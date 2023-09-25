@@ -213,7 +213,7 @@ section {
 	width: 63%;
 	background-color: #F2F2F2;
 	border-radius: 20px;
-	padding: 40px;
+	padding: 30px;
 }
 
 .accomodation {
@@ -309,7 +309,7 @@ aside {
 	flex-direction: column;
 	background-color: #F2F2F2;
 	border-radius: 25px;
-	padding: 40px;
+	padding: 30px;
 }
 
 .accomodation_popular_title {
@@ -519,7 +519,7 @@ footer {
 	}
 
 	.accomodation {
-		padding: 40px;
+		padding: 30px;
 	}
 
 	.accomodation_list_element {
