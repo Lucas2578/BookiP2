@@ -507,6 +507,10 @@ footer {
 
 	/********************************** FILTERS **********************************/
 
+	.filters {
+		flex-direction: column;
+	}
+
 	.filters_list_element {
 		font-size: 16px;
 	}
