@@ -673,12 +673,13 @@ footer {
 	}
 
 	.filters_list {
-		padding: 0px 0px 0px 27px;
+		padding: 0px 10px 0px 10px;
 		gap: 14px;
 	}
 
 	.filters_list_element {
 		font-size: 14px;
+		width: 37.8%;
 	}
 
 	.filters_element {
