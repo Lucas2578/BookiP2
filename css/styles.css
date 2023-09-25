@@ -80,6 +80,7 @@ nav a {
 
 .navigation:hover {
 	border-top: #0065FC solid 2px;
+	color: #0065FC;
 }
 
 /********************************** RESEARCH BAR **********************************/
