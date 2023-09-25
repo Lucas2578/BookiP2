@@ -57,6 +57,10 @@ header {
 	margin: 4px 0px 0px 0px;
 }
 
+.header_title {
+	margin: 30px 0px 35px 0px;
+}
+
 nav {
 	display: flex;
 	flex-direction: row;
@@ -87,7 +91,7 @@ nav a {
 
 .research_box {
 	display: flex;
-	margin: 20px 0px 20px 0px;
+	margin: 0px 0px 30px 0px;
 }
 
 .research_bar {
@@ -485,7 +489,7 @@ footer {
 
 /********************************** TABLET **********************************/
 
-@media screen and (max-width: 992px) and (min-width: 768px) {
+@media screen and (max-width: 1024px) and (min-width: 768px) {
 
 	/********************************** HEADER **********************************/
 
@@ -577,26 +581,7 @@ footer {
 
 /********************************** TABLET 2 **********************************/
 
-@media screen and (max-width: 900px) and (min-width: 768px) {
 
-	/********************************** ACCOMODATION POPULAR **********************************/
-
-	.accomodation_popular_list {
-		flex-direction: column;
-	}
-
-	.accomodation_popular_list_element {
-		width: 100%;
-	}
-
-	.accomodation_popular_list_element a {
-		width: 100%;
-	}
-
-	.accomodation_popular_list_element img {
-		width: 137px;
-	}
-}
 
 /********************************** MOBILE **********************************/
 
