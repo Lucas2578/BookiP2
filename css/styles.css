@@ -167,6 +167,7 @@ form .fa-magnifying-glass {
 	background-color: white;
 	transition: 0.5s background-color ease-out;
 	cursor: pointer;
+	font-size: 17px;
 }
 
 .filters_list_element:hover {
@@ -511,6 +512,10 @@ footer {
 		gap: 20px;
 	}
 
+	.filters_list_element {
+		font-size: 16px;
+	}
+
 	/********************************** ACCOMODATION **********************************/
 
 	.accomodations_parent {
@@ -670,6 +675,10 @@ footer {
 	.filters_list {
 		padding: 0px 0px 0px 27px;
 		gap: 14px;
+	}
+
+	.filters_list_element {
+		font-size: 14px;
 	}
 
 	.filters_element {
